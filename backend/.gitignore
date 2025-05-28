@@ -1,0 +1,33 @@
+Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+dotenv environment variables
+.env
+
+Logs
+logs
+*.log
+log/
+pids
+*.pid
+*.seed
+
+OS files
+.DS_Store
+Thumbs.db
+
+Optional cache folders
+.cache/
+.vscode/
+.idea/
+
+Uploaded or temp files
+uploads/
+temp/
+
+Production build (if applicable)
+dist/
+build/
